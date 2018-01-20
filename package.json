@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "randomart": "0.0.1",
-    "ssh2-streams": "~0.1.18"
+    "ssh2-streams": "~0.1.18",
+    "sshpk": "^1.13.1"
   },
   "devDependencies": {
     "semver": "^5.1.0"
